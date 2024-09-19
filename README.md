@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @XJF2332
-- 👀 I’m interested in generative AI and some other fun things
-  > However, I'm bad at Python, which means that all I can do is use repos that already exist 😢.
-- 🌱 I’m currently learning Gradio.
+- 👀 正在玩AI
+  > 但是很菜
+- 🌱 学Gradio中......
 
 <!---
 XJF2332/XJF2332 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
