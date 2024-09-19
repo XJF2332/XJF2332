@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @XJF2332
+- 👋 看看我的B站
+  > https://space.bilibili.com/367107779
 - 👀 正在玩AI
   > 但是很菜
 - 🌱 学Gradio中......
